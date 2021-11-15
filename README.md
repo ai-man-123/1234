@@ -1,4 +1,9 @@
 -------
+### Spotify Playing 🎧
+
+<p align="center">
+  <a href="https://open.spotify.com/user/hbv7yzic965h9y82w194av0cz" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+</p>
 
 <p align="center"> <a href="https://github.com/ai-man-123/1234"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=skiuwers&label=PROFILE%20VISITORS&color=green&style=flat-square" alt="skiuwers" /></a> </p>
 
