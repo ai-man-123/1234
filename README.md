@@ -31,7 +31,11 @@ Scan code QR nya | WhatsApp web
 > git clone https://github.com/ai-man-123/1234
 > cd 1234
 > npm install
-```
+````
+<p align="center">
+  <img src="https://github.com/zeeoneofc/zeeoneofc/blob/zeeoneofc/2047a1zwq1.gif" />
+</p>
+
 ## ```THANKS TO ALL``` <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
 ⌬ [Aiman*͘⁴̅⁰͍⁴̵〆*](https://github.com/ai-man-123/1234)
